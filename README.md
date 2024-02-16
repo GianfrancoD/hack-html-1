@@ -1,6 +1,4 @@
-# SOCIAL OPLESK
-### 🏴‍☠️ HACK-1:1
+# SOCIAL OPLESK | Hack de HTML & CSS 🔥🔥
+<br/>
 
-# Hack de HTML & CSS 🔥🔥
-
-## Tuvimos que estructurar y Diseñar 6 paginas diferentes y con su Responsive.
+### Tuvimos que estructurar y Diseñar 6 paginas diferentes y con su Responsive.
